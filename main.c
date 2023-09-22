@@ -3,8 +3,7 @@
 
 int main(int argc, char *argv[])
 {
-
-  
-  system("PAUSE");	
-  return 0;
+    
+    system("PAUSE");	
+    return 0;
 }
